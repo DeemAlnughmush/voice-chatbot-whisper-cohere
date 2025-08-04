@@ -68,7 +68,7 @@ COHERE_API_KEY = "your own key here !"
 
 ---
 ## Exit the Chat
-To end the program, say something like exit, quit, or press Ctrl+C.
+To end the program press Ctrl+C.
 
 ---
 ## Notes
