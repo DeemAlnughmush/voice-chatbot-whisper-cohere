@@ -9,7 +9,7 @@ It listens to your voice , transcribes it using Whisper (speech-to-text), sends 
 
 ![demo photo](demo.png)
 [Watch short demo video](demo.mp4)
-
+>  **Note:** The user's voice has been muted in the demo video for privacy reasons.
 
 ---
 
